@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-I’m Guillem Cadevall Ferrers, a dedicated Computer Science student with a strong focus on **Machine Learning**, **Deep Learning**, and **Computer Vision** using Python. My background also includes extensive experience with **C++**, developed through a variety of projects and coursework. Additionally, I have experience in **Robotics** and I’m learning game development with **Godot** in my free time.
+I’m Guillem Cadevall Ferreres, a dedicated Computer Science student with a strong focus on **Machine Learning**, **Deep Learning**, and **Computer Vision** using Python. My background also includes extensive experience with **C++**, developed through a variety of projects and coursework. Additionally, I have experience in **Robotics** and I’m learning game development with **Godot** in my free time.
 
 ## Tech Stack
 
