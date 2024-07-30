@@ -31,4 +31,4 @@ I’m Guillem Cadevall Ferrers, a dedicated Computer Science student with a stro
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/guillem-cadevall-ferreres-24b656213/)
-- [Gmail](mailto:guillecade22@gmail.com)
+- [Gmail - guillecade22@gmail.com](mailto:guillecade22@gmail.com)
