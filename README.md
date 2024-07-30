@@ -1,3 +1,5 @@
+<p style="text-align: justify;">
+
 # Welcome to My GitHub Profile!
 
 I’m Guillem Cadevall Ferreres, a dedicated Computer Science student with a strong focus on **Machine Learning**, **Deep Learning**, and **Computer Vision** using Python. My background also includes extensive experience with **C++**, developed through a variety of projects and coursework. Additionally, I have experience in **Robotics** and I’m learning game development with **Godot** in my free time.
@@ -32,3 +34,4 @@ I’m Guillem Cadevall Ferreres, a dedicated Computer Science student with a str
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/guillem-cadevall-ferreres-24b656213/)
 - [Gmail - guillecade22@gmail.com](mailto:guillecade22@gmail.com)
+</p>
