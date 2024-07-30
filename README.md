@@ -30,5 +30,5 @@ I’m Guillem Cadevall Ferreres, a dedicated Computer Science student with a str
 | ![Godot](https://img.shields.io/badge/-Godot-3582D1?logo=godot&logoColor=white) |
 
 ## Connect with Me
-- [LinkedIn](www.linkedin.com/in/guillem-cadevall-ferreres)
+- [LinkedIn](https://www.linkedin.com/in/guillem-cadevall-ferreres/)
 - [Gmail - guillecade22@gmail.com](mailto:guillecade22@gmail.com)
