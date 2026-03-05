@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 I’m Guillem Cadevall Ferreres, an AI & Deep Learning Engineer focused on **Machine Learning**, **Deep Learning**, and **Computer Vision** using Python. My background also includes extensive experience with **C++**, developed through a variety of projects and coursework. Additionally, I have experience in **Robotics** and I’m learning game development with **Godot** in my free time.
-Hi! I'm Guillem Cadevall Ferreres, an AI & Deep Learning Engineer focused on Computer Vision, NLP, and Multimodal AI systems.
+
 ## Tech Stack
 
 ### Languages
